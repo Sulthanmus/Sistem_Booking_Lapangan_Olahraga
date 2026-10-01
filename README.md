@@ -33,4 +33,4 @@ Repository ini digunakan untuk menyimpan dan mengumpulkan dokumen SKPL dan DPPL 
 
 ## Link Repository
 
-Masukkan link GitHub kelompok di bagian ini setelah repository dibuat.
+https://github.com/Sulthanmus/Sistem_Booking_Lapangan_Olahraga.git
