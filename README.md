@@ -15,7 +15,6 @@ Repository dokumentasi Tugas #2 — SKPL & DPPL.
 
 - `SKPL_Sistem_Booking_Lapangan_Olahraga.pdf` — Spesifikasi Kebutuhan Perangkat Lunak.
 - `DPPL_Sistem_Booking_Lapangan_Olahraga.pdf` — Deskripsi Perancangan Perangkat Lunak.
-- `INSTRUKSI_TUGAS_2.txt` — Panduan pengumpulan Tugas #2.
 
 ## Teknologi
 
